@@ -138,8 +138,7 @@ By empowering farmers and agri-students with plant health and eco-awareness insi
 
 ## 🧑‍💻 Author
 **👩‍💻 Vidhi N. Pateliya**  
-Final Year, Computer Science Engineering (AI Specialization)  
-Developed as part of Internship Project on *Sustainability & AI*  
+Final Year, Computer Science Engineering (AI Specialization)    
  
 
  
