@@ -1,4 +1,4 @@
-# Plant Species Detection Web Application
+# Verdentia - Plant Species Detection Web Application
 
 A Flask-based web application that uses AI/ML to identify plant species from uploaded images. The application supports multiple image uploads and provides detailed species identification with confidence scores and alternative predictions.
 
